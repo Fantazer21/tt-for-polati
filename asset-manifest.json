@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tt-for-polati/static/css/main.f3a5ddf3.css",
+    "main.js": "/tt-for-polati/static/js/main.c35b469d.js",
+    "static/js/787.2e357d8f.chunk.js": "/tt-for-polati/static/js/787.2e357d8f.chunk.js",
+    "index.html": "/tt-for-polati/index.html",
+    "main.f3a5ddf3.css.map": "/tt-for-polati/static/css/main.f3a5ddf3.css.map",
+    "main.c35b469d.js.map": "/tt-for-polati/static/js/main.c35b469d.js.map",
+    "787.2e357d8f.chunk.js.map": "/tt-for-polati/static/js/787.2e357d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a5ddf3.css",
+    "static/js/main.c35b469d.js"
+  ]
+}
