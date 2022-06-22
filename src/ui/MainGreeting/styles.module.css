@@ -1,0 +1,10 @@
+.Main {
+    display: flex;
+    justify-content: space-around;
+}
+.navLink {
+
+    width: 90px;
+    text-decoration: none;
+    cursor: pointer;
+}
